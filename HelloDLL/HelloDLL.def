@@ -1,0 +1,3 @@
+LIBRARY HelloDLL
+EXPORTS
+  HelloFromAsm
